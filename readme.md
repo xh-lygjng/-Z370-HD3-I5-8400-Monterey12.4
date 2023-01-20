@@ -9,6 +9,7 @@
 主硬盘	三星 SSD 960 EVO 250GB
 
 主显卡	AMD Radeon RX 480 8 GB
+
 板载显卡  UHD 630（注入0X3E920003）
 
 声卡	瑞昱 ALC892（注入：alcid=1)
